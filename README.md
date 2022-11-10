@@ -1,2 +1,0 @@
-# redirect1
-afafs
