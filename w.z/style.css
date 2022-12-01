@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    border: 5px;
+    color: gray;
+    background-color: green;
+    border-style: none;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+ul {
+    background-color: blue;
+    outline: 5px;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+
+ol {
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 5%;
+    margin-right: 40%;
+}
